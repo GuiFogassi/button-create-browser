@@ -1,32 +1,18 @@
-# Botão Criar Navegador
+# Button Create Browser
 
-Este projeto demonstra como criar um botão em um navegador web usando HTML, CSS e JavaScript.
+Este repositório contém um projeto de estudo focado na criação de um botão interativo para browsers. O objetivo principal deste projeto é aplicar e aprimorar habilidades em JavaScript e tecnologias web.
 
-## Índice
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
+## Sobre o Projeto
 
-## Instalação
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/GuiFogassi/button-create-browser.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```sh
-   cd button-create-browser
-   ```
+O projeto "Button Create Browser" é um exercício de aprendizado que visa demonstrar o uso de técnicas avançadas de JavaScript para criar um botão que interage diretamente com o navegador. É uma prática de como manipular a interface do usuário e melhorar a experiência interativa em aplicações web.
 
-## Uso
-1. Abra o arquivo `index.html` em seu navegador web para ver o botão em ação.
-2. Personalize os estilos do botão modificando o CSS no diretório `css`.
-3. Adicione ou modifique a funcionalidade do botão editando o JavaScript no diretório `script`.
+## Técnicas e Tecnologias Utilizadas
 
-## Contribuição
-1. Faça um fork do repositório.
-2. Crie sua branch de feature (`git checkout -b feature/SuaFeature`).
-3. Comite suas alterações (`git commit -m 'Adicione uma nova feature'`).
-4. Faça o push para a branch (`git push origin feature/SuaFeature`).
-5. Abra um pull request.
+- **JavaScript**: Utilizado para a lógica de criação e manipulação do botão. O código demonstra o uso de eventos e manipulação do DOM (Document Object Model).
+- **HTML**: Estrutura básica da página, incluindo o botão e outros elementos necessários para a funcionalidade do projeto.
+- **CSS**: Estilização do botão e da página para proporcionar uma melhor experiência visual e usabilidade.
+- **API do Navegador**: O projeto explora o uso das APIs do navegador para interações avançadas.
 
----
+## Contribuições
+
+Este projeto é um exercício pessoal para fins de estudo e aprimoramento de habilidades. Sinta-se à vontade para explorar, aprender e adaptar o código conforme necessário.
